@@ -1,5 +1,6 @@
 # Cake choc clémentines
 
+![cake](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/cake-choco-clementine.jpg)  
 
 **Ingrédients**  
 
@@ -36,6 +37,8 @@ Disposez le reste de crème et mélangez délicatement en soulevant la préparat
 Ne mélangez pas complètement afin d’avoir des stries de noisettes dans la chantilly.
 Réservez au réfrigérateur dans une poche à douille ou dans le récipient.
 Quand les cakes sont refroidis, coupez les en deux et déposez un peu de compote au milieu. Surmontez d’un peu de chantilly à l’aide de la poche ou avec une cuillère à soupe.
+
+**Astuces**  
 
 Décorez de quelques étoiles ou autres sucres fantaisies.
 Réalisez facilement des étoiles à l’emporte-pièce avec une écorce de clémentine pour une touche hivernale et subtile.

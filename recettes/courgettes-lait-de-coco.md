@@ -1,5 +1,5 @@
 
-# Velouté de courgettes eu lait de coco
+# Velouté de courgettes au lait de coco
 
 ![velouté](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/courgettes-laitdeCoco.jpg)
 

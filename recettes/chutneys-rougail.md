@@ -1,5 +1,7 @@
 # Chutneys et rougail
 
+![chutney et rougail](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/rougail-chutney.jpg)
+
 ### rougail tomates  
 
 **Ingrédients**  
@@ -13,13 +15,15 @@
 
 **Déroulé**  
 
-Couper les tomates en petits dés (si possible en retirant la peau).
-Hacher finement l'ail, les échalotes et le piment.
-Mélanger avec les tomates.
-Zester le combava parcimonieusement et parsemer.
-Saler et conserver au frais.
+Couper les tomates en petits dés (si possible en retirant la peau).  
+Hacher finement l'ail, les échalotes et le piment.  
+Mélanger avec les tomates.  
+Zester le combava parcimonieusement et parsemer.  
+Saler et conserver au frais.  
 
-Astuces : garder le combava au congélateur pour le conserver et sortir au dernier moment pour le zester
+**Astuces**
+
+Garder le combava au congélateur pour le conserver et sortir au dernier moment pour le zester.  
 
 ### chutney de mangues
 
@@ -33,10 +37,10 @@ Astuces : garder le combava au congélateur pour le conserver et sortir au derni
 
 **Déroulé**  
 
-Hacher finement la mangue et l'oignon rouge en petits dès.
-Presser le citron vert et récupérer le zeste.
-Mélanger les ingrédients avec le tabasco et le sel.
-Réserver au réfrigérateur.
+Hacher finement la mangue et l'oignon rouge en petits dès.  
+Presser le citron vert et récupérer le zeste.  
+Mélanger les ingrédients avec le tabasco et le sel.  
+Réserver au réfrigérateur.  
 
 ### chutney aux herbes
 
@@ -51,10 +55,10 @@ Réserver au réfrigérateur.
 
 **Déroulé**  
 
-Râper le gingembre.
-Presser le citron vert.
-Retirer les feuilles de menthe et les hacher finement avec un couteau.
-Hacher également la coriandre.
-Mélanger les ingrédients avec les yaourts.
-Saler, poivrer.
-Conserver au frais.
+Râper le gingembre.  
+Presser le citron vert.  
+Retirer les feuilles de menthe et les hacher finement avec un couteau.  
+Hacher également la coriandre.  
+Mélanger les ingrédients avec les yaourts.  
+Saler, poivrer.  
+Conserver au frais.  

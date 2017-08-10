@@ -1,5 +1,7 @@
 # Gaspacho de pastèque
 
+![gaspacho](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/gaspacho-pasteque.jpg)
+
 **Ingrédients**  
 
 * 1/2 pastèque (bien sucrée)

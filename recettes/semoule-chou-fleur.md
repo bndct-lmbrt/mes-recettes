@@ -1,5 +1,7 @@
 # Salade de semoule de chou-fleur et saucisses à la citronnelle
 
+![salade de chou-fleur](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/semoule-chouFleur.jpg)
+
 **Ingrédients**  
 
 * 1 chou-fleur
@@ -17,7 +19,7 @@
 
 **Déroulé**  
 
-Râper le chou-fleur avec le plus petit trou de la rape.  
+Râper le chou-fleur avec le plus petit trou de la râpe.  
 Découper le poivron rouge en petits dés.  
 Découper les tomates cerises en 2.  
 Faire blanchir les petits pois 5 minutes à l'eau bouillante.  

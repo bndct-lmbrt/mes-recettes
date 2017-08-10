@@ -1,5 +1,7 @@
 # Sandwich cake
 
+![sandwich cake](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/sandwich-cake.jpg)
+
 **Ingrédients**  
 
 * 16 pains suédois moelleux carrés (ou 4 ronds)

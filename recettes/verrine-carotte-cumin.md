@@ -1,5 +1,7 @@
 # Verrine carottes cumin
 
+![verrine carotte cumin](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/carottes-cumin.jpg)
+
 **Ingrédients**  
 
 * 1/2 oignon
@@ -14,9 +16,9 @@
 
 **Déroulé**  
 
-Faites revenir l’oignon émincé puis les carottes coupées en rondelles dans l’huile.
-Ajoutez les grains de cumin et faites les revenir pour que leur parfum se révèle en chauffant.
-Couvrez d’eau et laissez cuire 20 à 30 minutes, piquez les carottes pour vérifier leur cuisson.
-Mixez finement la préparation en veillant à ce que le mélange ne soit pas trop liquide.
-Salez, poivrez.
-Servez froid avec les éléments de décoration.
+Faites revenir l’oignon émincé puis les carottes coupées en rondelles dans l’huile.  
+Ajoutez les grains de cumin et faites les revenir pour que leur parfum se révèle en chauffant.  
+Couvrez d’eau et laissez cuire 20 à 30 minutes, piquez les carottes pour vérifier leur cuisson.  
+Mixez finement la préparation en veillant à ce que le mélange ne soit pas trop liquide.  
+Salez, poivrez.  
+Servez froid avec les éléments de décoration.  

@@ -1,12 +1,14 @@
 # Makis de courgettes haddock et mangue
 
+![makis de poireaux](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/makis-poireaux.jpg)
+
 **Ingrédients**  
 
 * 2 courgettes
 * 100g de fromage blanc
 * 125g de haddock
 * 1 mangue verte (pas mûre)
-* 1 citron combawa
+* 1 citron combava
 * piment d'Espelette
 * sel, poivre
 
@@ -26,6 +28,7 @@ Servir bien frais.
 
 **Astuces**
 
-Attention, le combawa est très puissant en goût, à doser précautionneusement.  
+Attention, le combava est très puissant en goût, à doser précautionneusement.  
+Remplacer la courgette par du poireau.  
 
 

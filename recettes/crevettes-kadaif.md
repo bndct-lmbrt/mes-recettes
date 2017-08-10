@@ -2,6 +2,8 @@
 
 ### Recette de Fred Chesneau
 
+![crevettes au kadaïf](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/crevettes-kadaif.jpg)
+
 **Ingrédients**    
 pour 4 personnes  
 

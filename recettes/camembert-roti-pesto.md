@@ -1,5 +1,6 @@
 # Camembert rôti au pesto
 
+![camembert](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/camembert1.jpg)  
 
 **Ingrédients**
 pour 2 personnes  
@@ -17,13 +18,15 @@ pour 2 personnes
 
 **Déroulé**  
 
-Mixez la roquette avec les pistaches et l’huile d’olive.
-Ajoutez l’huile au fur et à mesure jusqu’à obtenir une consistance veloutée.
-Ajoutez le bicarbonate.
-Sortez le camembert de son plastique et laissez-le dans sa boîte.
-Découpez le haut du camembert et creusez-le légèrement.
-Déposez le pesto.
-Refermez avec le chapeau du camembert.
-Mettez au four à 200°C pendant 10 à 15 minutes.
-Attention, certaines boîtes ne sont pas très solides et se décollent à la cuisson, laissez un plat en-dessous ou une feuille de papier cuisson.
-Dégustez sorti du four avec des cuillers ou des morceaux de pain.
+Mixez la roquette avec les pistaches et l’huile d’olive.  
+Ajoutez l’huile au fur et à mesure jusqu’à obtenir une consistance veloutée.  
+Ajoutez le bicarbonate.  
+Sortez le camembert de son plastique et laissez-le dans sa boîte.  
+Découpez le haut du camembert et creusez-le légèrement.  
+Déposez le pesto.  
+Refermez avec le chapeau du camembert.  
+Mettez au four à 200°C pendant 10 à 15 minutes.  
+Attention, certaines boîtes ne sont pas très solides et se décollent à la cuisson, laissez un plat en-dessous ou une feuille de papier cuisson.  
+Dégustez sorti du four avec des cuillers ou des morceaux de pain.  
+
+![camembert](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/camembert-avion.jpg)

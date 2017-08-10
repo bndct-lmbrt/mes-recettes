@@ -1,5 +1,7 @@
 # Bouchées de céleri au foie gras
 
+![bouchée]()
+
 **Ingrédients**  
 
 * 1/4 de céleri boule

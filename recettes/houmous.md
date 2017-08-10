@@ -1,5 +1,7 @@
 # Houmous
 
+![variante houmous d'orties](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/houmous-orties.jpg)
+
 **Ingrédients**  
 
 * 1 bocal de pois chiches ou 250g de pois chiches secs
@@ -15,5 +17,5 @@
 
 **Déroulé**  
 
-Si vous faites cuire vos pois chiches, faites les trempez 12h puis cuire un peu plus d’une heure sans saler l’eau de cuisson (le sel les empêche de cuire)
-Mixez tous les ingrédients et ajoutez à la fin pour la déco quelques feuilles de coriandre et des graines de sésame.
+Si vous faites cuire vos pois chiches, faites les trempez 12h puis cuire un peu plus d’une heure sans saler l’eau de cuisson (le sel les empêche de cuire).  
+Mixez tous les ingrédients et ajoutez à la fin pour la déco quelques feuilles de coriandre et des graines de sésame.  

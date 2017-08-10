@@ -1,4 +1,6 @@
-# Granola
+# Granola maison
+
+![granola](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/granola.jpg)
 
 **Ingrédients**  
 
@@ -13,11 +15,11 @@
 
 **Déroulé**  
 
-Mélangez tous les ingrédients sauf les fruits secs.
-Sur une plaque recouverte de papier cuisson, déposez le mélange.
-Enfournez à 150°C.
-Remuez toutes les 10 minutes pour homogénéiser la cuisson.
-Faites cuire 20/30 minutes suivant la couleur désirée, plus grillé ou non.
-Faites reposer sur la plaque.
-Quand le granola est refroidi, ajoutez les fruits secs.
-Conservez dans un bocal fermé.
+Mélangez tous les ingrédients sauf les fruits secs.  
+Sur une plaque recouverte de papier cuisson, déposez le mélange.  
+Enfournez à 150°C.  
+Remuez toutes les 10 minutes pour homogénéiser la cuisson.  
+Faites cuire 20/30 minutes suivant la couleur désirée, plus grillé ou non.  
+Faites reposer sur la plaque.  
+Quand le granola est refroidi, ajoutez les fruits secs.  
+Conservez dans un bocal fermé.  

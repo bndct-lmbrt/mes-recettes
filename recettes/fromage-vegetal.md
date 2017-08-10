@@ -1,5 +1,7 @@
 # Fromage végétal
 
+![fromage vegan](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/fromage-vegan.jpg)
+
 **Ingrédients**  
 
 * 200g de noix de cajou (non grillées non salées)
@@ -11,11 +13,11 @@
 
 **Déroulé**  
 
-Pour trouver des bonnes noix rien de tel que son magasin bio préféré et le distributeur de vrac.
-Faites tremper les noix de cajou dans un récipient rempli d’eau pendant 2 heures.
-Rincez-les et égouttez les.
-Mettez les noix, la gousse d’ail et le jus de citron dans le bol du mixeur et hachez minutieusement jusqu’à obtenir une consistance de pâte.
-Salez, poivrez, goûtez pour ajuster le goût (plus de citron, de sel, si c’est moins c’est trop tard… non ne jetez rien, si c’est trop acide, les cranberries peuvent rétablir l’équilibre)
-Découpez les cranberries et ciselez la menthe.
-Ajoutez à la pâte.
-C’est prêt!
+Pour trouver des bonnes noix rien de tel que son magasin bio préféré et le distributeur de vrac.  
+Faites tremper les noix de cajou dans un récipient rempli d’eau pendant 2 heures.  
+Rincez-les et égouttez les.  
+Mettez les noix, la gousse d’ail et le jus de citron dans le bol du mixeur et hachez minutieusement jusqu’à obtenir une consistance de pâte.  
+Salez, poivrez, goûtez pour ajuster le goût (plus de citron, de sel, si c’est moins c’est trop tard… non ne jetez rien, si c’est trop acide, les cranberries peuvent rétablir l’équilibre).  
+Découpez les cranberries et ciselez la menthe.  
+Ajoutez à la pâte.  
+C’est prêt!  

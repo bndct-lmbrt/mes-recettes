@@ -1,0 +1,28 @@
+# Energy balls
+
+![energy balls](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/energy-balls.jpg)
+
+**Ingrédients**  
+
+(pour environ 12 energy balls)  
+
+* 30g d'amandes + 30g de pistaches ou 60g d'oléagineux (noisettes, noix de cajou...)
+* 30g de fruits secs (cranberries, raisins, baies de goji ou abricots...)
+* 90g de petits flocons d'avoine
+* 60g de pâte de dattes
+* 45g de purée d'oléagineux (amandes, sésame, cacahuètes)
+* 3 cc d'eau
+* en option : morceaux de chocolat noir, noix de coco râpée, graines de chia   
+
+**Déroulé**
+
+Écraser grossièrement les amandes et pistaches à l'aide d'un couteau ou d'un mini-hachoir.  
+Couper les fruits secs en petits morceaux.  
+Dans un récipient, mélanger les flocons d'avoine avec les fruits secs et les oléagineux.  
+Couper la pâte de dattes en petits morceaux, prélever la purée d'oléagineux et les ajouter au mélange.  
+Malaxer avec les doigts afin d'amalgamer tous les ingrédients.  
+Ajouter l'eau au fur et à mesure jusqu'à obtenir une consistance collante.  
+Former des boules.  
+On peut les rouler dans du cacao en poudre non sucré, de la noix de coco râpée, du thé vert matcha, ou autre...  
+À déguster aussitôt ou conserver au réfrigérateur pendant au moins 10 jours.  
+

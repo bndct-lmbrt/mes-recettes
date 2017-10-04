@@ -1,6 +1,6 @@
 # Légumes lacto-fermentés
 
-![legumes](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/energy-balls.jpg)
+![legumes](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/legumes-lactofermentes.jpg)
 
 **Ingrédients**  
   

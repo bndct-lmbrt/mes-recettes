@@ -26,7 +26,7 @@ Faire une purée, saler.
 Préchauffer le four à 200°C.  
 Faire revenir l'oignon et l'ail hachés dans une poêle avec l'huile à feu assez vif.  
 Ajouter le gingembre râpé et la citronnelle hachée.  
-Déglacer avec la sauce soja puis ajouter les lentilles et a ciboule.  
+Déglacer avec la sauce soja puis ajouter les lentilles et la ciboule.  
 Faire revenir 10 min.  
 Mettre les lentilles dans un plat à gratin et verser la purée par dessus.  
 Enfourner pour 15/20 min.   

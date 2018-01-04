@@ -5,8 +5,8 @@
 **Ingrédients**  
  
 
-* algues sèches mélangées
-* legumes lactofermentés 
+* 25g d'algues sèches mélangées
+* 400g de legumes lactofermentés 
 
 
 

@@ -1,6 +1,6 @@
 # Falafels
 
-![falafels](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/falafels.jpg)
+![falafels](https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/fallalfel.JPG)
 
 **Ingrédients**  
  

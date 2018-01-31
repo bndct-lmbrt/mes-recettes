@@ -5,8 +5,8 @@
 **Ingrédients**  
  
 
-* 100g de graines de chia
-* 100ml de lait (lait de coco, lait de riz...)
+* 30g de graines de chia
+* 250ml de lait (lait de coco, lait de riz...)
 
 
 **Déroulé**
@@ -19,7 +19,8 @@ Déguster en agrémentant selon vos goûts.
 
 **Astuces** 
 
+Ajuster la quantité de liquide suivant la consistance souhaitée.  
 Ajouter du cacao, du sucre de coco, pour plus de gourmandise.  
-Une version testée : quelques cranberries, des graines de sarrasin germées déshydratées ou des noix pour croustiller, une touche acidulée avec des cristaux aux huiles essentielles d'agrumes ou quelques zestes d'agrumes.
+Une version testée : quelques cranberries, des graines de sarrasin germées déshydratées ou des noix pour croustiller, une touche acidulée avec des cristaux aux huiles essentielles d'agrumes ou quelques zestes d'agrumes.  
 
-crédit photo : Toa Heftiba
+crédit photo : Toa Heftiba  

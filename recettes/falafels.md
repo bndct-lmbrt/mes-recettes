@@ -32,5 +32,7 @@ Déguster aussitôt avec une sauce au yaourt (recette ici).
 
 **Astuces** 
 
-Ne pas mettre de sel pendant la cuisson des pois chiches pour éviter qu'ils ne deviennent durs et ne cuisent pas.   
+Ne pas mettre de sel pendant la cuisson des pois chiches pour éviter qu'ils ne deviennent durs et ne cuisent pas. 
+
+![falafels au four](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/falafels-four.jpg)  
 

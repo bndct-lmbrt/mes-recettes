@@ -5,10 +5,10 @@
 **Ingrédients**  
  
 
-* 15g de levure de boulanger
+* 11g de levure de boulanger
 * 400g de farine
 * 3 oeufs
-* 200g de pulpe 
+* 150g de pulpe de légumes (carottes, betteraves, épinards...)
 * 1 CS de sucre (de coco)
 * 1 cc de sel
 * 300 ml de lait végétal

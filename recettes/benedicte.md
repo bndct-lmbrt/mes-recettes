@@ -1,7 +1,6 @@
 ---
 author: Bénédicte Lambert
 description: Petite tarte dans ta face
-image_url: https://image.afcdn.com/recipe/20130308/17542_w420h344c1cx256cy192.jpg
 title: Tarte à l'amandine
 licence: CC-by-sa
 categorie: dessert
@@ -19,6 +18,8 @@ Mélangez le beurre ramolli au sucre jusqu'à ce que vous obteniez un mélange l
 
 Etape 2
 Ajoutez les oeufs battus,puis les amandes en poudre et la farine tamisée. Parfumez avec l'alcool de poire.
+
+![](https://image.afcdn.com/recipe/20130308/17542_w420h344c1cx256cy192.jpg)
 
 Etape 3
 Etalez la pâte brisée au fond d'un moule à tarte. Piquez-en le fond et versez-y le mélange. Placez enfin les poires sur le mélange en les enfonçant délicatement.

@@ -1,6 +1,20 @@
-# Bonbons de légumes en brick
+# Samoussas de légumes
 
-![bonbons](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/.jpg)
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/samoussas.jpg
+title: Samoussas de légumes
+licence: CC-by-sa
+categorie: entrée ou plat
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 15 min
+temps-preparation: 10 min
+layout: page
+---
+
 
 **Ingrédients**  
  
@@ -16,7 +30,7 @@
 
 Préparer les légumes, les découper, les faire précuire pour les légumes durs (betteraves, fenouil, carottes).
 Ajouter les épices et le miel.
-Couper les feuilles de brick en 2.
-Mettre une cuiller de légumes et refermer comme un bonbon en papillote.
+Couper les feuilles de brick en 2. Replier en 2.
+Mettre une cuiller de légumes et refermer en formant un triangle qui se replit sur lui.
 Badigeonner d'huile.
 Enfourner pour 15/20 min à 180°C.

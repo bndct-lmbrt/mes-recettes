@@ -41,4 +41,4 @@ Mettez au four à 200°C pendant 10 à 15 minutes.
 Attention, certaines boîtes ne sont pas très solides et se décollent à la cuisson, laissez un plat en-dessous ou une feuille de papier cuisson.  
 Dégustez sorti du four avec des cuillers ou des morceaux de pain.  
 
-![camembert](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/camembert-avion.jpg)
+![camembert](https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/camembert-avion.jpg)

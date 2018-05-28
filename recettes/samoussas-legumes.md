@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/celeri-foie-gras.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/samoussas.jpg
 title: Samoussas de légumes
 licence: CC-by-sa
 categorie: entrée

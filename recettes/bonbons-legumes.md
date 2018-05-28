@@ -1,12 +1,10 @@
-# Samoussas de légumes
-
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/samoussas.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/celeri-foie-gras.jpg
 title: Samoussas de légumes
 licence: CC-by-sa
-categorie: entrée ou plat
+categorie: entrée
 niveau: débutant
 date: 12/05/2017
 nombre: 4 personnes
@@ -14,6 +12,7 @@ temps-cuisson: 15 min
 temps-preparation: 10 min
 layout: page
 ---
+
 
 
 **Ingrédients**  

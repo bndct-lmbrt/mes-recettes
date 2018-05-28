@@ -2,7 +2,7 @@
 author: Bénédicte Lambert
 description: Petite tarte dans ta face
 image_url: https://image.afcdn.com/recipe/20130308/17542_w420h344c1cx256cy192.jpg
-title: Bouchées de céleri au foie gras
+title: Tarte à l'amandine
 licence: CC-by-sa
 categorie: dessert
 niveau: débutant

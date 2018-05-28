@@ -1,6 +1,6 @@
 ---
 author: Bénédicte Lambert
-description: Simple et rafinée un délice ⭐️⭐️⭐️
+description: Simple et original
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/celeri-foie-gras.jpg
 title: Bouchées de céleri au foie gras
 licence: CC-by-sa
@@ -8,8 +8,8 @@ categorie: entrée
 niveau: débutant
 date: 12/05/2017
 nombre: 4 personnes
-temps-cuisson: 5 min
-temps-preparation: 30 min
+temps-cuisson: 25 min
+temps-preparation: 10 min
 layout: page
 ---
 

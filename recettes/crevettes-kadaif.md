@@ -1,18 +1,29 @@
-# Crevettes au kadaïf et chantilly salée
+---
+author: Bénédicte Lambert
+description: Recette de Fred Chesneau
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/crevettes-kadaif.jpg
+title: Crevettes au kadaïf et chantilly salée
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 15 min
+temps-preparation: 20 min
+layout: page
+---
 
-### Recette de Fred Chesneau
-
-![crevettes au kadaïf](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/crevettes-kadaif.jpg)
 
 **Ingrédients**    
-pour 4 personnes  
+ 
 
 * 12 crevettes crues non décortiquées
 * 1 paquet de kadaïf (vermicelles de pâte filo) en épicerie exotique
 * 60g de beurre 1/2 sel
 * 15 cl de crème fleurette entière
-* 1 botte d'aneth
-* 1 boîte d'oeufs de lump
+* 1/2 botte d'aneth
+* 1/2 botte de ciboulette
+* 1 bocal d'oeufs de lump
 * 1 citron vert
 * sel, poivre
 
@@ -36,3 +47,5 @@ Tremper les crevettes dans la chantilly après avoir retiré la tête.
 
 Déguster les crevettes aussitôt sorties du four.  
 Attention à ne pas décongeler trop tôt et conserver au réfrigérateur, les crevettes doivent garder leur couleur grise.
+
+credit photo : 

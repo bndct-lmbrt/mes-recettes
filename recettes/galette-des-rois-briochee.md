@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/celeri-foie-gras.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/couronne-rois.jpg
 title: Galette des rois briochée
 licence: CC-by-sa
 categorie: dessert

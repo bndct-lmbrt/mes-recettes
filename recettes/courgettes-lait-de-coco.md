@@ -1,7 +1,19 @@
+---
+author: Bénédicte Lambert
+description: végétarien
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/courgettes-laitdeCoco.jpg
+title: Velouté de courgettes au lait de coco
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 20 min
+temps-preparation: 10 min
+layout: page
+---
 
-# Velouté de courgettes au lait de coco
 
-![velouté](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/courgettes-laitdeCoco.jpg)
 
 **Ingrédients**  
 

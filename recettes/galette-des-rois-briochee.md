@@ -1,4 +1,19 @@
-# Galette des rois briochée
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/celeri-foie-gras.jpg
+title: Galette des rois briochée
+licence: CC-by-sa
+categorie: dessert
+niveau: moyen
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 25 min
+temps-preparation: 30 min
+temps-repos: 2h
+layout: page
+---
+# 
 
 ![couronne des rois](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/couronne-rois.jpg)
 

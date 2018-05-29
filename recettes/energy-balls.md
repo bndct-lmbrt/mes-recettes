@@ -1,6 +1,18 @@
-# Energy balls
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/energy-balls.jpg
+title: Energy balls
+licence: CC-by-sa
+categorie: snack sain
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes ou 12 balls
+temps-cuisson: 0 min
+temps-preparation: 5 min
+layout: page
+---
 
-![energy balls](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/energy-balls.jpg)
 
 **Ingrédients**  
 

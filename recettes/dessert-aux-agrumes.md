@@ -1,4 +1,18 @@
-# Dessert aux agrumes  
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/dessert-agrumes.jpg
+title: Dessert aux agrumes
+licence: CC-by-sa
+categorie: dessert
+niveau: débutant
+date: 12/05/2017
+nombre: 2 personnes
+temps-cuisson: 0 min
+temps-preparation: 10 min
+layout: page
+---
+
 
 **Ingrédients**  
 
@@ -19,4 +33,5 @@ Hachez grossièrement quelques noix de cajou.
 Disposez les fruits dans les assiettes, jetez les noix, la poudre et le thym de manière harmonieuse.
 Arrosez de miel.
 
-Astuces: vous pouvez ajoutez de l’eau de fleur d’oranger, des zestes de citron, remplacer le combava par un peu de cannelle, remplacer les agrumes citées par de la clémentine, des kumquats, des citrons bergamote, de l’orange sanguine…
+*Astuces*
+Vous pouvez ajoutez de l’eau de fleur d’oranger, des zestes de citron, remplacer le combava par un peu de cannelle, remplacer les agrumes citées par de la clémentine, des kumquats, des citrons bergamote, de l’orange sanguine…

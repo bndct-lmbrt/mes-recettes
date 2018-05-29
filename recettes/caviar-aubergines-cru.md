@@ -1,6 +1,17 @@
-# Caviar d'aubergines cru
-
-![caviar d'aubergines](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/caviar-aubergines.jpg)
+---
+author: Bénédicte Lambert
+description: recette crue, lacto-fermentés
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/eggplant.jpg
+title: Caviar d'aubergines cru
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 0 min
+temps-preparation: 15 min
+layout: page
+---
 
 **Ingrédients**  
  
@@ -35,3 +46,5 @@ Au moment de le consommer, passer au mixer et déposer sur des tartines.
 **Astuces** 
 
 Vous pouvez le conserver pendant plus d'1 an, une fois ouvert le mettre au réfrigérateur.  
+
+crédit photo : Peter Hershey

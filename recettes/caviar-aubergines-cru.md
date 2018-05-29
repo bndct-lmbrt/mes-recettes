@@ -1,6 +1,6 @@
 ---
 author: Bénédicte Lambert
-description: recette crue, lacto-fermentés  
+description: Recette crue lacto-fermentés  
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/eggplant.jpg
 title: Caviar d'aubergines cru
 licence: CC-by-sa

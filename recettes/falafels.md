@@ -1,6 +1,19 @@
-# Falafels
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/falafels.jpg
+title: Falafels
+licence: CC-by-sa
+categorie: entrée/plat
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 40 min
+temps-preparation: 10 min
+temps-repos: 6/12H
+layout: page
+---
 
-![falafels](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/falafels.jpg)
 
 **Ingrédients**  
  
@@ -34,5 +47,5 @@ Déguster aussitôt avec une sauce au yaourt (recette ici).
 
 Ne pas mettre de sel pendant la cuisson des pois chiches pour éviter qu'ils ne deviennent durs et ne cuisent pas. 
 
-![falafels au four](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/falafels-four.jpg)  
+![falafels au four](https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/falafels-four.jpg)  
 

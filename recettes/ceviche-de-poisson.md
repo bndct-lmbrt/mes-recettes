@@ -1,6 +1,19 @@
-# Ceviche de poisson
-
-![ceviche](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/ceviche.jpg)  
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/ceviche.jpg
+title: Ceviche de poisson
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 2 personnes
+temps-cuisson: 0 min
+temps-preparation: 10 min
+temps-repos: 2 heures minimum
+layout: page
+---
+ 
 
 **Ingrédients**
 pour 2 personnes  

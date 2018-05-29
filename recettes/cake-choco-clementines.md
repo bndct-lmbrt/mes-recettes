@@ -1,6 +1,19 @@
-# Cake choco clémentines
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/cake-choco-clementine.jpg
+title: Cake choco clémentines
+licence: CC-by-sa
+categorie: dessert
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 15 min
+temps-preparation: 20 min
+layout: page
+---
 
-![cake](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/cake-choco-clementine.jpg)  
+
 
 **Ingrédients**  
 

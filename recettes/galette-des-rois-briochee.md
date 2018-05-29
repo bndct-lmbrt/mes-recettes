@@ -13,9 +13,7 @@ temps-preparation: 30 min
 temps-repos: 2h
 layout: page
 ---
-# 
 
-![couronne des rois](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/couronne-rois.jpg)
 
 **Ingrédients**  
 

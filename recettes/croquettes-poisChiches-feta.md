@@ -1,7 +1,21 @@
-# Croquettes pois chiches et féta
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/chickpeas.jpg
+title: Croquettes de pois chiches et féta
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 10 min
+temps-preparation: 10 min
+layout: page
+---
+
 
 **Ingrédients**
- pour 4 personnes  
+
 
 * 250 gr de pois chiches
 * 300 gr de biscottes
@@ -24,3 +38,5 @@ Les réduire en purée au mixeur. Peler, épépiner et concasser la tomate, rajo
 La diviser en grosses boulettes, et frire dans l’huile bouillante pendant quelques minutes, jusqu’à ce qu’elles soient bien dorées.
 
 Note: Pour la quantité de biscottes, il faut que la pâte ne soit pas trop liquide, assez collante pour former des boules.
+
+crédit photo : Deryn Macey

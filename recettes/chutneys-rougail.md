@@ -1,6 +1,18 @@
-# Chutneys et rougail
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/rougail-chutney.jpg
+title: Chutneys et rougail
+licence: CC-by-sa
+categorie: accompagnement
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 0 min
+temps-preparation: 10-20 min
+layout: page
+---
 
-![chutney et rougail](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/rougail-chutney.jpg)
 
 ### rougail tomates  
 

@@ -1,6 +1,19 @@
-# Fromage végétal
+---
+author: Bénédicte Lambert
+description: Simple et original
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/fromage-vegan.jpg
+title: Fromage végétal
+licence: CC-by-sa
+categorie: fromage
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 0 min
+temps-preparation: 10 min
+temps-repos: 2h
+layout: page
+---
 
-![fromage vegan](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/fromage-vegan.jpg)
 
 **Ingrédients**  
 

@@ -1,3 +1,17 @@
+---
+author: Bénédicte Lambert
+description: Décoration 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/dentelle.jpg
+title: Dentelle de chocolat
+licence: CC-by-sa
+categorie: dessert
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 5 min
+temps-preparation: 15/20 min
+layout: page
+---
 # Dentelle de chocolat
 
 **Ingrédients**

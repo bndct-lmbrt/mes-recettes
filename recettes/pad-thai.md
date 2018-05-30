@@ -1,3 +1,17 @@
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pad-thai.jpg
+title: Pad thaï
+licence: CC-by-sa
+categorie: plat
+niveau: moyen
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 15 min
+temps-preparation: 15 min
+layout: page
+---
 # Pad thaï
 
 
@@ -7,8 +21,8 @@ pour 2 personnes
 * 100 à 150 g de pâtes de riz (plus ou moins larges selon les goûts)
 * 1 gousses d’ail hachée
 * 1 piment rouge frais épépiné et haché (ou un peu de piment en poudre)
-* 1 blanc de poulet coupé en petits morceaux
-* 100 à 150 g de crevettes décortiquées
+* 1 blanc de poulet coupé en petits morceaux 
+* 100 à 150 g de crevettes décortiquées 
 * 1 c. à soupe de nam-pla (sauce de poisson ou nuoc-mâm)
 * le jus d’1/2 citron vert
 * 1 c. à café de sucre
@@ -35,3 +49,5 @@ Ajouter les nouilles, et la coupelle de nuoc-mâm, citron, crevettes et sucre. F
 Pencher le wok et faire cuire l’oeuf sur le bord.   
 Avant qu’il soit complètement cuit, mélanger l’oeuf avec le reste et ajouter ciboule, germes de soja et cacahuètes En garder un peu pour saupoudrer à la fin).   
 Servir immédiatement en saupoudrant du reste de cacahuètes, avec 1/2 citron vert.
+
+

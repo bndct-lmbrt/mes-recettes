@@ -1,3 +1,18 @@
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/houmous-orties.jpg
+title: Houmous
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 60 min
+temps-preparation: 10 min
+temps-repos: 12h
+layout: page
+---
 # Houmous
 
 ![variante houmous d'orties](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/houmous-orties.jpg)
@@ -6,7 +21,7 @@
 
 * 1 bocal de pois chiches ou 250g de pois chiches secs
 * 2 cuillers à soupe de purée de sésame ou tahini
-* 1 pot de yaourt grec
+* 1 pot de yaourt grec ou 125g de tofu soyeux
 * 1 gousse d’ail
 * 1 jus de citron
 * 1/4 d’oignon rouge

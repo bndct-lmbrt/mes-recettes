@@ -12,9 +12,7 @@ temps-cuisson: 5 min
 temps-preparation: 10 min
 layout: page
 ---
-# Gaspacho de pastèque
 
-![gaspacho](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/gaspacho-pasteque.jpg)
 
 **Ingrédients**  
 

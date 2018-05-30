@@ -1,6 +1,18 @@
-# Meringues sans oeuf
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/meringues-vegan.jpg
+title: Meringues sans oeufs
+licence: CC-by-sa
+categorie: dessert
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 80 min
+temps-preparation: 10 min
+layout: page
+---
 
-![meringues vegan](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/meringues-vegan.jpg)
 
 **Ingrédients**  
 
@@ -12,7 +24,7 @@
 **Déroulé**  
 
 Mélangez le jus avec le sucre.  
-Faites chauffer dans une casserole et laissez bouillir 1 minute.  
+Faites chauffer dans une casserole ou au bain marie.  
 Battez à l’aide d’un batteur électrique en augmentant la vitesse petit à petit.  
 Ainsi les bulles formées seront plus petites et resteront emprisonnées.  
 Ajoutez le jus de citron et l’arôme quand le liquide est bien blanc.  

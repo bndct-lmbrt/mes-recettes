@@ -1,3 +1,17 @@
+---
+author: Bénédicte Lambert
+description: Recette d'Isabel Lepage
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gaspacho-pasteque.jpg
+title: Bouchées de céleri au foie gras
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 5 min
+temps-preparation: 10 min
+layout: page
+---
 # Gaspacho de pastèque
 
 ![gaspacho](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/gaspacho-pasteque.jpg)

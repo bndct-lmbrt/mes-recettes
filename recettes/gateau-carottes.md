@@ -31,7 +31,7 @@ Glaçage :
 * 50g de fromage blanc
 * 225g de sucre glace
 
-**Déroulé **  
+**Déroulé**  
 
 Préchauffer le four à 180°C.  
 Mélanger les oeufs avec la farine, la levure, le sucre, la cannelle et l'huile.  

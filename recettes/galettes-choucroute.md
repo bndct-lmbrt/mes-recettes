@@ -1,12 +1,24 @@
-# Galettes de choucroute
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/galettes.jpg
+title: Galettes de choucroute
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 8 min
+temps-preparation: 5 min
+layout: page
+---
 
-![galettes](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/galettes.jpg)
 
 **Ingrédients**  
  
 
 * 280g de chou lactofermenté
-* 50g de farine
+* 50g de farine (de riz complet, de lupin, de pois chiches...)
 * 1 oeuf
 * 60g de tofu fumé (facultatif)
 * 1 cc de cumin en poudre (ou autre épice)
@@ -31,5 +43,8 @@ Manger chaud.
 Garder le jus pour mettre dans une soupe ou dans une vinaigrette car il est très riche en enzymes et vitamines.  
 Recette à faire avec d'autres légumes lactofermentés, carottes, betteraves...
 
+
+
+crédit photo : RitaE
 
 

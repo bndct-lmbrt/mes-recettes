@@ -31,3 +31,6 @@ Déguster aussitôt ou après l'avoir laissé au réfrigérateur.
 **Astuces** 
 
 Pour une texture plus aérée, ajouter du jus de cuisson de pois chiches (aquafalba) monté en neige (cf recette de meringues sans oeuf).  
+
+
+Crédit photo : Brooke Lark

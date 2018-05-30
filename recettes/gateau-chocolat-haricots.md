@@ -1,6 +1,18 @@
-# Gâteau au chocolat et haricots rouges
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gateau-choc-haricots.jpg
+title: Gâteau au chocolat et haricots rouges
+licence: CC-by-sa
+categorie: dessert
+niveau: débutant
+date: 12/05/2017
+nombre: 4/8 personnes
+temps-cuisson: 35 min
+temps-preparation: 10 min
+layout: page
+---
 
-![gâteau](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/gateau-haricots.jpg)
 
 **Ingrédients**  
  
@@ -9,7 +21,7 @@
 * 2 oeufs  
 * 200g de chocolat noir
 * 3CS d'huile 
-* 75g de sucre
+* 75g de sucre (coco)
 
 
 **Déroulé**
@@ -22,4 +34,8 @@ Ajouter le sucre.
 Mettre dans un plat huilé légèrement.  
 Enfourner pour 30/40 min suivant l'épaisseur du gâteau.  
 Accompagner d'une chantilly au thé vert matcha.  
+
+*Astuce*
+Ce gâteau sera meilleur avec des haricots trempés et cuits maison (variété azukis plus sucrée).  
+
 

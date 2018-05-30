@@ -1,6 +1,6 @@
 ---
 author: Bénédicte Lambert
-description: Simple et original
+description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/fromage-vegan.jpg
 title: Fromage végétal
 licence: CC-by-sa

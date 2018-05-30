@@ -2,7 +2,7 @@
 author: Bénédicte Lambert
 description: Recette d'Isabel Lepage
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gaspacho-pasteque.jpg
-title: Bouchées de céleri au foie gras
+title: Gaspacho de pastèque
 licence: CC-by-sa
 categorie: entrée
 niveau: débutant

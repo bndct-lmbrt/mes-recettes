@@ -1,6 +1,19 @@
-# Laits végétaux
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/lait-vegetal.jpg
+title: Laits végétaux
+licence: CC-by-sa
+categorie: boisson
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 0 min
+temps-preparation: 10 min
+temps-repos : 8h
+layout: page
+---
 
-![laits végétaux](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/lait-vegetal.jpg)
 
 **Ingrédients**  
  
@@ -11,7 +24,7 @@
 
 **Déroulé**
 
-Faire tremper les fruits à coque dans de l'eau pendant 1 nuit ou 6h minimum.  
+Faire tremper les fruits à coque dans de l'eau pendant 1 nuit ou 1h minimum.  
 Vider l'eau de trempage.  
 Mixer avec l'eau à l'aide d'un plongeur mixer ou d'un blender.  
 Filtrer avec un torchon.  

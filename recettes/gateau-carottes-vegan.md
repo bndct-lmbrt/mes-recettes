@@ -1,6 +1,18 @@
-# Gâteau à la carotte végétalien, sans gluten, sans sucre blanc
-
-![carot cake](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/carot-cake.jpg)
+---
+author: Bénédicte Lambert
+description: Végétalien, peu sucré
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/carot-cake.jpg
+title: Gâteau à la carotte végétalien, sans gluten, sans sucre blanc
+licence: CC-by-sa
+categorie: dessert
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 35 min
+temps-preparation: 15 min
+temps-repos: 2h
+layout: page
+---
 
 **Ingrédients**  
  

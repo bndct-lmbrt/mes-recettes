@@ -54,3 +54,6 @@ Enfourner pendant 25/40 minutes selon l'épaisseur.
 
 Remplacer la viande par un mélange d'oeufs battus à verser sur les légumes.  
 Mélanger différents légumes râpés.  
+
+
+Crédit photo : Hai Nguyen

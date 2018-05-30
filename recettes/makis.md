@@ -1,6 +1,18 @@
-# Makis aux légumes
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/makis.jpg
+title: Makis aux légumes
+licence: CC-by-sa
+categorie: entrée/plat
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 22 min
+temps-preparation: 20 min
+layout: page
+---
 
-![makis](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/makis.jpg)
 
 **Ingrédients**  
  

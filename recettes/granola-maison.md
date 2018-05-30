@@ -1,6 +1,18 @@
-# Granola maison
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/granola.jpg
+title: Granola maison
+licence: CC-by-sa
+categorie: petit déjeuner
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 30 min
+temps-preparation: 10 min
+layout: page
+---
 
-![granola](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/granola.jpg)
 
 **Ingrédients**  
 

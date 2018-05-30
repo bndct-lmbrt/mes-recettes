@@ -1,10 +1,23 @@
-# Gratin de céleri et pommes de terre
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gratin-celeri.jpg
+title: Gratin de céleri et pommes de terre
+licence: CC-by-sa
+categorie: plat
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 30 min
+temps-preparation: 20 min
+layout: page
+---
 
-![gratin](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/gratin-celeri.jpg)
+
 
 **Ingrédients**  
-(pour 4 personnes)
- 
+
+
 
 * 1 petit céleri
 * 6 pommes de terre 

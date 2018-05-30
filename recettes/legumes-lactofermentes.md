@@ -1,6 +1,19 @@
-# Légumes lacto-fermentés
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/legumes-lactofermentes.jpg
+title: Légumes lacto-fermentés
+licence: CC-by-sa
+categorie: légumes
+niveau: débutant
+date: 12/05/2017
+nombre: 4/8 personnes
+temps-cuisson: 0 min
+temps-preparation: 15 min
+temps-repos: 3/4 semaines
+layout: page
+---
 
-![legumes](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/legumes-lactofermentes.jpg)
 
 **Ingrédients**  
   

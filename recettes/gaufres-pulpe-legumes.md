@@ -1,6 +1,19 @@
-# Gaufres à la pulpe de légumes (extracteur à jus)
+---
+author: Bénédicte Lambert
+description: zéro déchet
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gaufre-pulpe.jpg
+title: Gaufres à la pulpe de légumes (extracteur à jus)
+licence: CC-by-sa
+categorie: dessert
+niveau: débutant
+date: 12/05/2017
+nombre: 4/8 personnes
+temps-cuisson: 25 min
+temps-preparation: 10 min
+temps-repos: 2h
+layout: page
+---
 
-![gaufres de légumes](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/gaufre-pulpe.jpg)
 
 **Ingrédients**  
  
@@ -33,3 +46,4 @@ Manger salé ou sucré.
 Remplacer la pulpe par de la purée de patates douces, de potiron de courge.
  
 
+Crédit photo : Alexandra Gorn

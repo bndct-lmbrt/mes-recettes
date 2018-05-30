@@ -7,7 +7,7 @@ licence: CC-by-sa
 categorie: plat
 niveau: moyen
 date: 12/05/2017
-nombre: 4 personnes
+nombre: 2 personnes
 temps-cuisson: 15 min
 temps-preparation: 15 min
 layout: page
@@ -16,7 +16,7 @@ layout: page
 
 
 **Ingrédients**
-pour 2 personnes  
+ 
 
 * 100 à 150 g de pâtes de riz (plus ou moins larges selon les goûts)
 * 1 gousses d’ail hachée

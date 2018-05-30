@@ -1,6 +1,18 @@
-# Makis de courgettes haddock et mangue
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/makis-poireaux.jpg
+title: Makis de courgettes haddock et mangue
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 3 min
+temps-preparation: 15 min
+layout: page
+---
 
-![makis de poireaux](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/makis-poireaux.jpg)
 
 **Ingrédients**  
 

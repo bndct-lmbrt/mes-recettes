@@ -8,8 +8,8 @@ categorie: dessert
 niveau: débutant
 date: 12/05/2017
 nombre: 4/8 personnes
-temps-cuisson: 25 min
-temps-preparation: 10 min
+temps-cuisson: 5 min
+temps-preparation: 15 min
 temps-repos: 2h
 layout: page
 ---

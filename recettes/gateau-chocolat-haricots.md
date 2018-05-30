@@ -35,7 +35,8 @@ Mettre dans un plat huilé légèrement.
 Enfourner pour 30/40 min suivant l'épaisseur du gâteau.  
 Accompagner d'une chantilly au thé vert matcha.  
 
-*Astuce*
-Ce gâteau sera meilleur avec des haricots trempés et cuits maison (variété azukis plus sucrée).  
+*Astuce*  
+Ce gâteau sera meilleur avec des haricots trempés et cuits maison (variété azukis plus sucrée).   
+Faire un glaçage avec une purée de patates douces.  
 
 

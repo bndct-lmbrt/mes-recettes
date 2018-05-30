@@ -1,3 +1,18 @@
+---
+author: Bénédicte Lambert
+description: Végétalien
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/hachis.jpg
+title: Hachis parmentier sans viande
+licence: CC-by-sa
+categorie: plat végé
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 45 min
+temps-preparation: 15 min
+temps-repos: 8h
+layout: page
+---
 # Hachis parmentier sans viande
 
 ![hachis](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/hachis.jpg)

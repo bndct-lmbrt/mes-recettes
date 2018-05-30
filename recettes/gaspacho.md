@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gaspacho-tomates.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gaspacho.jpg
 title: Gaspacho de tomates
 licence: CC-by-sa
 categorie: entrée

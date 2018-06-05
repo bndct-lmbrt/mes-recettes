@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: Végétarien
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tempeh.jpg
+image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tempeh_raw.jpg/512px-Tempeh_raw.jpg
 title: Tempeh au tahin
 licence: CC-by-sa
 categorie: plat

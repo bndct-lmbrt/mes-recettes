@@ -7,6 +7,7 @@ licence: CC-by-sa
 categorie: accompagnement
 niveau: moyen
 date: 12/05/2017
+credit photo: Artur Rutkowski
 nombre: 4 personnes
 temps-cuisson: 30 min
 temps-preparation: 10 min
@@ -38,3 +39,5 @@ Faire reposer 1h à température ambiante.
 Laisser à nouveau reposer 1h au réfrigérateur.
 Badigeonner de jaune d'oeuf. (Facultatif)
 Enfourner pour 30 min à 210°C.
+
+

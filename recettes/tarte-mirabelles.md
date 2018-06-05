@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tarte-mirabelles.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/mirabelle.jpg
 title: Tarte aux mirabelles
 licence: CC-by-sa
 categorie: dessert

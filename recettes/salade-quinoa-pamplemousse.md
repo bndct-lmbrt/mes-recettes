@@ -7,6 +7,7 @@ licence: CC-by-sa
 categorie: entrée
 niveau: débutant
 date: 12/05/2017
+credit photo: Thought Catalog
 nombre: 2 personnes
 temps-cuisson: 15 min
 temps-preparation: 10 min

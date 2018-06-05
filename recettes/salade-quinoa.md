@@ -1,6 +1,6 @@
 ---
 author: Bénédicte Lambert
-description: Simple et original
+description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/salade-quinoa.jpg
 title: Salade de quinoa et légumes
 licence: CC-by-sa

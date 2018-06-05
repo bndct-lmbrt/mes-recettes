@@ -7,6 +7,7 @@ licence: CC-by-sa
 categorie: soupe
 niveau: débutant
 date: 12/05/2017
+credit photo: Sébastien Bourguet
 nombre: 8 personnes
 temps-cuisson: 35 min
 temps-preparation: 20 min

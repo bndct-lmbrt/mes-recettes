@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/saumon-cidre.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/saumon-sene.jpg
 title: Saumon au cidre et aux câpres
 licence: CC-by-sa
 categorie: entrée

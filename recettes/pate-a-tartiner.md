@@ -7,6 +7,7 @@ licence: CC-by-sa
 categorie: petit-déjeuner/goûter
 niveau: débutant
 date: 12/05/2017
+credit photo: Simone Van der Koelen
 nombre: 4 personnes
 temps-cuisson: 20 min
 temps-preparation: 5 min

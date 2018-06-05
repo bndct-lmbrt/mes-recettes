@@ -7,6 +7,7 @@ licence: CC-by-sa
 categorie: apéro
 niveau: débutant
 date: 12/05/2017
+credit photo: Danielle Macinnes
 nombre: 4/8 personnes
 temps-cuisson: 10 min
 temps-preparation: 10 min

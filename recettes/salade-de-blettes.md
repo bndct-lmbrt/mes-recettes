@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/salade-blettes.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/salade-blette.jpg
 title: Salade de blettes
 licence: CC-by-sa
 categorie: entrée/plat

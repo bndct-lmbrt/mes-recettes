@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: Recette malgache de Marianne
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/poulet-coco.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pouletcoco.jpg
 title: Poulet au lait de coco
 licence: CC-by-sa
 categorie: plat

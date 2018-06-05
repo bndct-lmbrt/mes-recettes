@@ -7,6 +7,7 @@ licence: CC-by-sa
 categorie: dessert
 niveau: débutant
 date: 12/05/2017
+credit photo: Fabrice Veigas
 nombre: 4 personnes
 temps-cuisson: 35 min
 temps-preparation: 10 min

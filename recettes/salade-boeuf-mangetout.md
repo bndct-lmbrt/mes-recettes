@@ -7,6 +7,7 @@ licence: CC-by-sa
 categorie: plat
 niveau: débutant
 date: 12/05/2017
+credit photo: Yvonne Lee Harijanto
 nombre: 4 personnes
 temps-cuisson: 25 min
 temps-preparation: 15 min

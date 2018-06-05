@@ -7,6 +7,7 @@ licence: CC-by-sa
 categorie: viande
 niveau: débutant
 date: 12/05/2017
+credit photo: Yvonne Lee Harijanto
 nombre: 8/10 personnes
 temps-cuisson: min
 temps-preparation: 10 min

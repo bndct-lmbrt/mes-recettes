@@ -1,4 +1,3 @@
-
 ---
 author: Bénédicte Lambert
 description:
@@ -8,6 +7,7 @@ licence: CC-by-sa
 categorie: entrée
 niveau: débutant
 date: 12/05/2017
+credit photo: Gwenael Quantin
 nombre: 4 personnes
 temps-cuisson: 15 min
 temps-preparation: 15 min

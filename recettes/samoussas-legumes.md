@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/samoussas.jpg
+image_url: https://upload.wikimedia.org/wikipedia/commons/8/8f/Burmese_style_samusa.jpg
 title: Samoussas de légumes
 licence: CC-by-sa
 categorie: entrée

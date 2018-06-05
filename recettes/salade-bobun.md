@@ -7,6 +7,7 @@ licence: CC-by-sa
 categorie: plat
 niveau: débutant
 date: 12/05/2017
+credit photo: Magali Brecville
 nombre: 4 personnes
 temps-cuisson: 10 min
 temps-preparation: 20 min

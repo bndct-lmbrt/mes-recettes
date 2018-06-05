@@ -1,12 +1,13 @@
 ---
 author: Bénédicte Lambert
-description: Simple et original
+description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/soupe-chou-cardamome.jpg
 title: Soupe de chou-fleur à la cardamome
 licence: CC-by-sa
 categorie: entrée
 niveau: débutant
 date: 12/05/2017
+credit photo: Jennifer Scmidt
 nombre: 4 personnes
 temps-cuisson: 30 min
 temps-preparation: 10 min

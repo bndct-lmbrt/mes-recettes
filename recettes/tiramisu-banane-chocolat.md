@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tiramisu.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/verrine-banane.jpg
 title: Tiramisu banane chocolat
 licence: CC-by-sa
 categorie: dessert

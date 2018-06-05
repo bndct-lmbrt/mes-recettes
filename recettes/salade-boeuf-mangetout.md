@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/boeuf-marine.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/boeuf-marine2.jpg
 title: Salade de boeuf mariné
 licence: CC-by-sa
 categorie: plat

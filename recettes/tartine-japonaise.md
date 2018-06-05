@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tartine-japonaise.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tartine-japon.jpg
 title: Tartines japonaises
 licence: CC-by-sa
 categorie: entrée

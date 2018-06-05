@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tom-kha-khai.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tom-khakai.jpg
 title: Soupe Tom Kha KaÏ
 licence: CC-by-sa
 categorie: entrée/plat

@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/religieuse-noel.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/bonhomme-de-neige.jpg
 title: Religieuses bonhomme de neige
 licence: CC-by-sa
 categorie: dessert

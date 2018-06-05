@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tartine-radis.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tartines-radis.jpg
 title: Tartines radis pamplemousse
 licence: CC-by-sa
 categorie: entrée

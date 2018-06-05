@@ -1,6 +1,6 @@
 ---
 author: Bénédicte Lambert
-description: Simple et original
+description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/creme-the.jpg
 title: Crème au thé Earl Grey
 licence: CC-by-sa

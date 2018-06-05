@@ -1,5 +1,19 @@
 
-# Salade de poivron surprise
+---
+author: Bénédicte Lambert
+description:
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/poivron-surprise.jpg
+title: Salade de poivron surprise
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 15 min
+temps-preparation: 15 min
+layout: page
+---
+
 
 **Ingrédients**  
 
@@ -17,13 +31,13 @@
 * quelques gouttes de tabasco
 * sel, poivre
 
-#### Recette:
+**Recette**
 
-Réalisez la sauce en coupant très finement les échalotes et en mélangeant le reste des ingrédients.  
-Faites cuire le quinoa 15/20 minutes.  
-Découpez de fines rondelles d'oignon rouge.  
-Concassez les noisettes.  
-Faites des cubes de pommes verte et rouge en les citronnant pour éviter qu'ils ne noircissent.  
-Évidez le ou les poivrons.  
-Remplissez des éléments de la salade.  
-Accompagnez de sauce au dernier moment.  
+Réaliser la sauce en coupant très finement les échalotes et en mélangeant le reste des ingrédients.    
+Faire cuire le quinoa 15/20 minutes.  
+Découper de fines rondelles d'oignon rouge.  
+Concasser les noisettes.  
+Faire des cubes de pommes verte et rouge en les citronnant pour éviter qu'ils ne noircissent.    
+Évider le ou les poivrons.  
+Remplir des éléments de la salade.  
+Accompagner de sauce au dernier moment.    

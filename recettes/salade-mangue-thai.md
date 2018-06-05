@@ -1,7 +1,17 @@
-# Salade de mangue thaï
-
-![salade thaï](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/salade-thai.jpg)
-
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/salade-thai.jpg
+title: Salade de mangue thaïe
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 0 min
+temps-preparation: 15 min
+layout: page
+---
 Inspiré par la recette de Fred Chesneau
 
 **Ingrédients**  
@@ -23,6 +33,7 @@ Inspiré par la recette de Fred Chesneau
 Ciseler les échalotes.  
 Couper les tomates cerises en 2.  
 Hacher finement la citronnelle après avoir retiré la 1ère couche.  
+Ciseler la coriandre.  
 Mélanger la sauce soja, le gingembre et le jus de citron.  
 Mélanger tous les ingrédients.
 Conserver au frais avant de servir.  

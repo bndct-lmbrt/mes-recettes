@@ -1,7 +1,20 @@
-# Salade quinoa avocat pamplemousse
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/salade-avocat-pamplemousse.jpg
+title: Salade de quinoa avocat pamplemousse
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 2 personnes
+temps-cuisson: 15 min
+temps-preparation: 10 min
+layout: page
+---
+
 
 **Ingrédients**
-pour 2 personnes  
 
 * 200g de quinoa
 * 1 pamplemousse rose
@@ -9,14 +22,18 @@ pour 2 personnes
 * 1 petit bulbe de fenouil
 * quelques feuilles de basilic
 * le jus d’1/2 citron vert
-* 2 cs d’huile d’olive
-* 1 cs de vinaigre de framboise
-* 1/2 cs de sauce soja
+* 2 CS d’huile d’olive
+* 1 CS de vinaigre de framboise
+* 1/2 CS de sauce soja
 * sel et poivre
 
 **Déroulé**  
 
-Faites cuire le quinoa puis laissez le refroidir.  
-Coupez de fines lamelles de fenouil, des cubes d’avocat, pelez le pamplemousse à vif. Mélangez le tout. Ciselez le basilic. Pressez le jus de citron.  
-Faites une petite vinaigrette avec l’huile, le vinaigre et la sauce soja. Salez, poivrez.  
-Servez frais.  
+Faire cuire le quinoa puis laisser refroidir.    
+Couper de fines lamelles de fenouil, des cubes d’avocat.
+Peler le pamplemousse à vif.   
+Mélanger le tout.   
+Ciseler le basilic.   
+Presser le jus de citron.    
+Faire une petite vinaigrette avec l’huile, le vinaigre et la sauce soja. Saler, poivrer.    
+Servir frais.  

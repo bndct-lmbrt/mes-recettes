@@ -1,6 +1,18 @@
-# Pâte à tartiner
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pate-a-tartiner.jpg
+title: Pâte à tartiner aux noisettes
+licence: CC-by-sa
+categorie: petit-déjeuner/goûter
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 20 min
+temps-preparation: 5 min
+layout: page
+---
 
-![pate a tartiner](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/pate-a-tartiner.jpg)
 
 **Ingrédients**  
  

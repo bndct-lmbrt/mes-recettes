@@ -12,7 +12,7 @@ temps-cuisson: 25 min
 temps-preparation: 15 min
 layout: page
 ---
-# Gâteau à la carotte
+
 
 **Ingrédients**  
 

@@ -1,6 +1,18 @@
-# Salade de tofu lactofermenté
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tofu-lactofermente.jpg
+title: Salade de tofu lactofermenté
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 5 min
+temps-preparation: 10 min
+layout: page
+---
 
-![salade](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/tofu-lactofermente.jpg)
 
 **Ingrédients**  
  
@@ -20,7 +32,7 @@
 
 **Déroulé**
 
- Couper le tofu en dés.  
+Couper le tofu en dés.  
 Mélanger la sauce soja, le gingembre et les zestes de citron vert.  
 Ajouter le tofu et enrober, laisser mariner pendant 15 minutes minimum.  
 Couper la pomme en petits cubes et y ajouter la mâche et les graines de courge. Réserver.  

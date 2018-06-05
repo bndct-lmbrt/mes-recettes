@@ -1,6 +1,18 @@
-# Tempeh au tahin
+---
+author: Bénédicte Lambert
+description: Végétarien
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tempeh.jpg
+title: Tempeh au tahin
+licence: CC-by-sa
+categorie: plat
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 25 min
+temps-preparation: 15 min
+layout: page
+---
 
-![tempeh](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/tempeh.jpg)
 
 **Ingrédients**  
  
@@ -16,7 +28,7 @@
 * 1CS de vinaigre (de cidre, de riz...)
 * 1CS de miel
 * 1 échalote
-* sel
+
 
 
 **Déroulé**

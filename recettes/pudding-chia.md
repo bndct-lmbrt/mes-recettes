@@ -1,6 +1,18 @@
-# Pudding de graines de chia
-
-![pudding de chia](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/pudding-chia.jpg)
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pudding-chia.jpg
+title: Pudding de graines de chia
+licence: CC-by-sa
+categorie: petit-déjeuner/dessert
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 0 min
+temps-preparation: 10 min
+temps-repos: 2/12h
+layout: page
+---
 
 **Ingrédients**  
  

@@ -1,7 +1,20 @@
-# Saumon au cidre et câpres
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/saumon-cidre.jpg
+title: Saumon au cidre et aux câpres
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 15 min
+temps-preparation: 20 min
+layout: page
+---
+
 
 **Ingrédients**
-pour 4 personnes  
 
 * 4 darnes de saumon
 * 2 échalotes
@@ -19,17 +32,17 @@ pour 4 personnes
 
 **Déroulé**  
 
-Faites revenir les échalotes dans une cuillère à soupe d’huile d’olive.  
-Ajoutez le gingembre.  
-Posez les darnes de saumon, arrosez avec le citron vert et faites cuire à l’unilatéral sur feu doux.  
-Battez la crème bien froide jusqu’à l’obtention d’une belle chantilly, salez, poivrez.  
-Ajoutez les câpres émincés.  
-Réservez au frais.  
-Faites torréfier les noisettes.  
-Lavez et découpez les pousses d’épinards.  
-Coupez de fines lamelles de pomme citronnées, pour éviter qu’elles ne noircissent.  
-Concassez grossièrement les noisettes et ajoutez-en la moitié dans la salade, réservez le reste.  
-Mélangez avec une vinaigrette au vinaigre de cidre et huile d’olive.  
-Lorsque le saumon est cuit, déglacez avec le cidre.  
-Salez, poivrez puis disposez les dans les assiettes en les arrosant d’une pluie de noisettes concassées.  
-Dégustez avec le reste de cidre.  
+Faire revenir les échalotes dans une cuillère à soupe d’huile d’olive.  
+Ajouter le gingembre.  
+Poser les darnes de saumon, arroser avec le citron vert et faire cuire à l’unilatéral sur feu doux.  
+Battre la crème bien froide jusqu’à l’obtention d’une belle chantilly, saler, poivrer.  
+Ajouter les câpres émincés.  
+Réserver au frais.  
+Faire torréfier les noisettes.  
+Laver et découper les pousses d’épinards.  
+Couper de fines lamelles de pommes citronnées, pour éviter qu’elles ne noircissent.  
+Concasser grossièrement les noisettes et ajouter la moitié dans la salade, réserver le reste.  
+Mélanger avec une vinaigrette au vinaigre de cidre et huile d’olive.  
+Lorsque le saumon est cuit, déglacer avec le cidre.  
+Saler, poivrer puis disposer dans les assiettes en les arrosant d’une pluie de noisettes concassées.  
+Déguster avec le reste de cidre.  

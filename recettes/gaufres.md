@@ -13,7 +13,7 @@ temps-preparation: 10 min
 temps-repos: 3h
 layout: page
 ---
-# Gaufres
+
 
 **Ingrédients**  
 

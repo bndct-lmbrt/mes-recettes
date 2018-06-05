@@ -1,19 +1,31 @@
-# Tarte crue aux pommes
+---
+author: Bénédicte Lambert
+description:
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/tarte-crue-pommes.jpg
+title: Tarte crue aux pommes
+licence: CC-by-sa
+categorie: dessert
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 0 min
+temps-preparation: 20 min
+layout: page
+---
 
-![tarte](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/tarte-crue-pommes.jpg)
 
 **Ingrédients**  
  
-pâte 
+pâte   
 * 200g de flocons d'avoine
 * 2CS de purée d'amandes
 * 1 CS de pâte de dattes
-caramel
+caramel  
 * 200g de pâte de dattes
 * 1 pincée de sel
 * 2 CS de purée d'amandes
 * 3 CS de lait de riz
-pommes
+pommes  
 * 5 pommes
 * 1 citron
 
@@ -34,5 +46,5 @@ Conserver au réfrigérateur ou à température ambiante.
 
 **Astuces** 
 
-Ajouter un peu de fève de tonka râpée sur le dessus. 
+Ajouter un peu de fève tonka râpée sur le dessus. 
 

@@ -1,6 +1,18 @@
-# Sandwich cake
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/sandwich-cake.jpg
+title: Sandwich cake
+licence: CC-by-sa
+categorie: entrée/apéro
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 0 min
+temps-preparation: 20 min
+layout: page
+---
 
-![sandwich cake](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/sandwich-cake.jpg)
 
 **Ingrédients**  
 
@@ -23,7 +35,7 @@ Réserver un peu moins de la moitié pour recouvrir le dessus.
 Ciseler 2 CS d'origan et l'ajouter au reste de mélange au Philadelphia.  
 Découper le concombre (avec la peau) et les radis très finement, avec une mandoline ou au couteau.  
 Couper les tomates cerises en 2.  
-Sur la 1ère couche de pain, étaler 1/3 du mélange crémeux.   Disposer les tranches de concombre et de radis en cercles concentriques.  
+Sur la 1ère couche de pain, étaler 1/3 du mélange crémeux.     Disposer les tranches de concombre et de radis en cercles concentriques.  
 Renouveler l'opération sur les 3 premières couches.  
 Sur la dernière couche de pain, étaler le mélange sans origan en veillant à lisser à l'aide d'une spatule.  
 Mettre sur le dessus les tomates cerises, quelques rondelles de radis et les feuilles de basilic afin de recréer un petit jardin.  

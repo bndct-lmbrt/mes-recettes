@@ -1,6 +1,18 @@
-# Soupe de potiron
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/soupe-potiron.jpg
+title: Soupe de potiron
+licence: CC-by-sa
+categorie: entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 25 min
+temps-preparation: 10 min
+layout: page
+---
 
-![soupe](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/soupe-potiron.jpg)
 
 **Ingrédients**  
  
@@ -24,13 +36,13 @@ Découper les courges en cubes. Retirer les pépins.Laisser la peau, elle se con
 Faire revenir les légumes 5/10 minutes en mélangeant régulièrement.  
 Verser de l'eau à couvert (jusqu'à ce que les légumes soient immergés et pas plus).  
 Faire cuire 15/20 minutes.  
-Mixer la soupe et ajouter le lait de coco à la fin. 
+Mixer la soupe et ajouter le lait de coco à la fin.   
 Ajouter de l'eau pour une consistance moins épaisse.   
 Saler, poivrer selon votre convenance.  
 
 
 **Astuces** 
 
- Faire revenir les pépins de courge au four ou à la poêle pour agrémenter la soupe ou une salade.
-Faire une jolie déco sur la soupe avec le tutoriel ici.
-
+Faire revenir les pépins de courge au four ou à la poêle pour agrémenter la soupe ou une salade.  
+Faire une jolie déco sur la soupe avec le tutoriel ci-dessous.  
+ https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/soupe-potiron.jpg

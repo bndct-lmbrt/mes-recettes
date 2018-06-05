@@ -13,9 +13,7 @@ temps-preparation: 15 min
 temps-repos: 8h
 layout: page
 ---
-# Hachis parmentier sans viande
 
-![hachis](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/hachis.jpg)
 
 **Ingrédients**  
  

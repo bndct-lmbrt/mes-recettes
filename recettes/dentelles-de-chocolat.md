@@ -12,7 +12,7 @@ temps-cuisson: 5 min
 temps-preparation: 15/20 min
 layout: page
 ---
-# Dentelle de chocolat
+
 
 **Ingrédients**
 

@@ -1,4 +1,18 @@
-# Recettes aux orties
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pesto-orties.jpg
+title: Recettes aux orties
+licence: CC-by-sa
+categorie: entrée/plat
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 0/15 min
+temps-preparation: 10/15 min
+layout: page
+---
+
 
 
 ### Houmous d'orties
@@ -18,10 +32,10 @@
 
 **Déroulé**  
 
-Mettez tous les ingrédients dans le robot et mixez finement.
-Rectifiez l’assaisonnement à votre goût.
-Réservez au réfrigérateur.
-Servez avec du pain, des gressins ou dans des petits sandwichs avec des légumes grillés.
+Mettre tous les ingrédients dans le robot et mixer finement.  
+Rectifier l’assaisonnement à son goût.  
+Réserver au réfrigérateur.  
+Servir avec du pain, des gressins ou dans des petits sandwichs avec des légumes grillés.  
 
 
 ### Linguine au pesto d’orties
@@ -45,9 +59,10 @@ Servez avec du pain, des gressins ou dans des petits sandwichs avec des légumes
 
 **Déroulé**  
 
-Faites cuire les pâtes.
-Découpez de fines tranches d’artichaut équeuté, en partant du fond, en conservant les petites feuilles avec.
-Faites-les revenir à la poêle dans l’huile.
-Mettez les ingrédients du pesto dans le robot et mixez ou, pour un meilleur résultat, écrasez-les au pilon. Ajustez l’assaisonnement.
-Mélangez les pâtes avec le pesto, ajoutez les tomates confites et les artichauts.
-Dégustez chaud.
+Faire cuire les pâtes.   
+Découper de fines tranches d’artichaut équeuté, en partant du fond, en conservant les petites feuilles avec.  
+Faire revenir à la poêle dans l’huile.  
+Mettre les ingrédients du pesto dans le robot et mixer ou, pour un meilleur résultat, écraser au pilon.   
+Ajuster l’assaisonnement.  
+Mélanger les pâtes avec le pesto, ajouter les tomates confites et les artichauts.  
+Déguster chaud.  

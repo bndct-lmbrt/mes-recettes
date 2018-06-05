@@ -1,3 +1,17 @@
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/boeuf-marine.jpg
+title: Salade de boeuf mariné
+licence: CC-by-sa
+categorie: plat
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 25 min
+temps-preparation: 15 min
+layout: page
+---
 # Salade de boeuf mariné 
 
 **Ingrédients**  
@@ -7,7 +21,7 @@
 * 120g de haricots mangetout
 * 8 tomates cerises
 * 2 carottes
-* 1/2 oignons rouges nouveaux
+* 1 à 2 oignons rouges nouveaux
 * 2 cc de sésame
 * sel, poivre
 

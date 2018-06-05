@@ -1,4 +1,18 @@
-# Rouleaux de printemps
+---
+author: Bénédicte Lambert
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/rouleaux-printemps.jpg
+title: Rouleaux de printemps
+licence: CC-by-sa
+categorie: apéro/plat/entrée
+niveau: débutant
+date: 12/05/2017
+nombre: 4 personnes
+temps-cuisson: 5 min
+temps-preparation: 25 min
+layout: page
+---
+
 
 **Ingrédients**  
 
@@ -6,23 +20,22 @@
 * 120g de vermicelles de riz
 * 2 poignées de cacahuètes hachées
 * germes de soja
-* menthe
-* coriandre
-* Légumes au choix:
-j’aime le mélange carotte, betterave, pomme verte
-vous pouvez mettre juste des carottes et du concombre
-Laissez parler vos envies et votre imagination
-* Viande ou poisson si vous le souhaitez :
+* 5 branches de menthe
+* 5 branches de coriandre
+* Légumes au choix: mélange carotte, betterave, pomme verte
+ou carottes et du concombre
+ou légumes de saison
+* Viande ou poisson (facultatif) :
 crevettes décortiquées ou morceaux de saucisse à la citronnelle
-* Sauce soja ou sauce améliorée
+* Sauce soja ou sauce améliorée avec gingembre, vinaigre de riz, citron
 
 **Déroulé**  
 
-Faites cuire les vermicelles.
-Coupez tous les ingrédients.
-Faites tremper la feuille de riz dans un récipient d’eau chaude.
-Déposez la dans l’assiette à plat.
-Mettez les ingrédients dans le 1er tiers du haut et au centre.  Disposez petit à petit en veillant à ne pas trop en mettre, sinon il ne fermera pas ou se déchirera.
-Versez la sauce de préférence sur les vermicelles de riz pour assaisonner sans avoir besoin de tremper.
-Pliez les côtés et roulez.
-Si vous les préparez en avance, conservez les dans un linge humide.
+Faire cuire les vermicelles.  
+Couper tous les ingrédients.  
+Faire tremper la feuille de riz dans un récipient d’eau chaude.  
+Déposer avec un torchon humide dessous pour ne pas coller.  
+Mettre les ingrédients dans le 1er tiers du haut et au centre.    Disposer petit à petit en veillant à ne pas trop en mettre, sinon il ne fermera pas ou se déchirera.  
+Verser la sauce de préférence sur les vermicelles de riz pour assaisonner sans avoir besoin de tremper.  
+Plier les côtés et rouler.  
+S'ils sont préparés en avance, conserver dans un linge humide.  

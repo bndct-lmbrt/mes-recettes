@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
-description: Végétalien, peu sucré
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/carot-cake.jpg
+description: 
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gateau-carottes-vegan.jpg
 title: Gâteau à la carotte végétalien, sans gluten, sans sucre blanc
 licence: CC-by-sa
 categorie: dessert
@@ -42,8 +42,6 @@ Glaçage
 * 5CS de lait d'amandes
 * 1 pincée de sel
 
-
-
 **Déroulé**
 
 Faire tremper les graines de lin dans un bol avec 4 Cs d'eau.  
@@ -63,4 +61,5 @@ Lorsque le gâteau est refroidi, recouvrir de glaçage et décorer de cerneaux d
 
 Acheter un mix de farine sans gluten tout prêt.  
 Mettre des carottes de couleurs différentes pour varier les couleurs du gâteau.
+
 

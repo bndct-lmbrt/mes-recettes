@@ -6,7 +6,7 @@ title: Makis aux légumes
 licence: CC-by-sa
 categorie: entrée/plat
 niveau: débutant
-date: 12/05/2017
+date: 21/07/2018
 nombre: 4 personnes
 temps-cuisson: 22 min
 temps-preparation: 20 min

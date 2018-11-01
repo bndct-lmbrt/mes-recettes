@@ -4,17 +4,17 @@ description:
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pizza-chou-fleur.jpg
 title: Pizza à la pâte de chou-fleur
 licence: CC-by-sa
-categorie: plat
+categories: plat
 niveau: débutant
 date: 26/10/2018
 nombre: 4 personnes
 temps-cuisson: 35 min
 temps-preparation: 20 min
-layout: page
+layout: recette
 ---
 
 
-**Ingrédients**  
+## Ingrédients  
 
 * 500g de chou-fleur
 * 2 oeufs
@@ -30,7 +30,7 @@ Garniture
 
 
 
-**Déroulé**  
+## Déroulé 
 
 Préchauffer le four à 180°C.  
 Râper les fleurs de chou-fleur avec la grille la plus fine.  
@@ -43,7 +43,7 @@ Pendant ce temps,  découper en morceaux les champignons, le poivron et la tomat
 Enfourner à nouveau pour 10/12 min.  
 Ajouter sur la pizza sortie du four des feuilles de basilic et la salade.  
 
-**Astuces**
+## Astuces
 
 Mettre seulement la sauce tomate et cuire puis ajouter tous les éléments crus.  
 Garnir selon les envies avec de la mozzarella, des courgettes, des artichauts, des tomates cerises...  

@@ -2,7 +2,7 @@
 author: Bénédicte Lambert
 description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/dessert-chou-fleur.jpg
-title: Crème de chocolat blanc au chou-fleur
+title: Crème de chocolat noir au chou-fleur
 licence: CC-by-sa
 categorie: dessert
 niveau: débutant
@@ -27,9 +27,9 @@ layout: page
 **Déroulé**  
 
 Détailler les fleurs de chou-fleur.  
-Mettre à cuire dans la crème liquide avec la gousse de vanille grattée.  
-Quand le chou-fleur est tendre, retirer à l'aide d'un chinois.  
-Mixer le chou-fleur avec 2CS de crème et le sucre.  
+Mettre à cuire au cuit-vapeur.  
+Infuser la crème liquide avec la gousse de vanille grattée.  
+Quand le chou-fleur est tendre, mixer le chou-fleur avec 2CS de crème et le sucre.  
 Chauffer le chocolat au bain-marie.  
 Verser le reste de crème bouillante sur le chocolat en 3 fois afin d'obtenir une ganache lisse.  
 Mélanger aussitôt la ganache avec la purée de chou-fleur.  

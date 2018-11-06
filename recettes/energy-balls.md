@@ -38,3 +38,21 @@ Former des boules.
 On peut les rouler dans du cacao en poudre non sucré, de la noix de coco râpée, du thé vert matcha, ou autre...  
 À déguster aussitôt ou conserver au réfrigérateur pendant au moins 10 jours.  
 
+**Astuces**
+
+La recette de Marine  
+
+* 90g de graines de sarrasin (germées et déshydratées)
+* 30g de pistaches + 30g de graines de courge
+* 30g de dattes moelleuses
+* 60g de pâte de figues
+* 4cc d'eau
+* 45g de purée d'amandes
+* noix de coco râpée
+
+Écraser grossièrement les graines de sarrasin.  
+Couper en morceaux les pistaches et graines de courge.  
+Couper les dattes en petits morceaux.  
+Mixer la pâte de figues avec l'eau.  
+Mélanger tous les ingrédients sauf la noix de coco en malaxant avec les mains.  
+Faire des boules et rouler dans la noix de coco.  

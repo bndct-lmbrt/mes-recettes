@@ -41,7 +41,6 @@ Saupoudrer de graines de chanvre grillé.
 Mettre au chaud pour faire fermenter (yaourtière, déshydrateur à 40°C, près d'un radiateur, en couvrant) pendant 4 à 24h.   
   
 
-
 ### Astuces
 
 Remplacer la noix de cajou par des amandes ou noisettes.  

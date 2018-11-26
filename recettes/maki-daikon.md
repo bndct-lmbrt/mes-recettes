@@ -2,7 +2,7 @@
 author: Bénédicte Lambert
 description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/makis-radis.jpg
-title: Mais au radis daïkon
+title: Makis au radis daïkon
 licence: CC-by-sa
 categories: entrée ou plat
 niveau: débutant

@@ -4,13 +4,13 @@ description:
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/cake-radis-noir.jpg
 title: Cake au radis noir
 licence: CC-by-sa
-categories: dessert
+categorie: 
 niveau: débutant
 date: 20/11/2018
 nombre: 4 personnes
 temps-cuisson: 25 min
 temps-preparation: 15 min
-layout: recette
+layout: 
 ---
 
 

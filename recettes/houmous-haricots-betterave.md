@@ -2,7 +2,7 @@
 author: Bénédicte Lambert
 description: 
 image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/houmous.jpg
-title: Houmous
+title: Houmous aux haricots blancs
 licence: CC-by-sa
 categorie: entrée
 niveau: débutant

@@ -2,7 +2,7 @@
 author: Bénédicte Lambert
 description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/houmous-chanvre.jpg
-title: houmous de chanvre
+title: Houmous de chanvre
 licence: CC-by-sa
 categorie: 
 niveau: débutant

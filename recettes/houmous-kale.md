@@ -1,8 +1,8 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pesto-kale.jpg
-title: Pesto de kale
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/houmous-kale.jpg
+title: Houmous de kale
 licence: CC-by-sa
 categories: entrée
 niveau: débutant

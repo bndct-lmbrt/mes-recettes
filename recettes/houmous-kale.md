@@ -11,7 +11,7 @@ date: 24/11/2018
 nombre: 4 personnes
 temps-cuisson: 60 min
 temps-preparation: 10 min
-layout: recettes
+layout:page
 ---
 
 

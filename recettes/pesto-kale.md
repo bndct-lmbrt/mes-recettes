@@ -11,7 +11,7 @@ date: 24/11/2018
 nombre: 4 personnes
 temps-cuisson: 0 min
 temps-preparation: 5 min
-layout: recettes
+layout:page
 ---
 
 

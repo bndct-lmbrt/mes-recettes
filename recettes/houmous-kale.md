@@ -5,14 +5,15 @@ description:
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/houmous-kale.jpg
 title: Houmous de kale
 licence: CC-by-sa
-categorie: entrée
+categories: entrée
 niveau: débutant
-date: 24/11/2018
+date: 20/11/2018
 nombre: 4 personnes
-temps-cuisson: 60 min
+temps-cuisson: 0-60 min
 temps-preparation: 10 min
-layout:page
+layout: page
 ---
+
 
 
 ### Ingrédients  

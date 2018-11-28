@@ -1,18 +1,18 @@
-
 ---
 author: Bénédicte Lambert
 description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/salade-chips-kale.jpg
-title: Salade et chips de kale
+title: Salade et chips de kale moutarde et miel
 licence: CC-by-sa
-categorie: entrée
+categories: entrée
 niveau: débutant
-date: 24/11/2018
+date: 20/11/2018
 nombre: 4 personnes
 temps-cuisson: 0-15 min
 temps-preparation: 5 min
-layout:page
+layout: page
 ---
+
 
 
 ### Ingrédients  

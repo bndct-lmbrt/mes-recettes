@@ -1,17 +1,17 @@
-
 ---
 author: Bénédicte Lambert
 description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pesto-kale.jpg
 title: Pesto de kale
 licence: CC-by-sa
-categorie: entrée
+categories: entrée
 niveau: débutant
-date: 24/11/2018
+date: 20/11/2018
 nombre: 4 personnes
 temps-cuisson: 0 min
-temps-preparation: 5 min
-layout:page
+temps-preparation: 10 min
+temps-repos: 30 min
+layout: page
 ---
 
 

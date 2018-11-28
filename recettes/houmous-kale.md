@@ -18,7 +18,7 @@ layout: recettes
 ### Ingrédients  
 
 * 250g de pois chiches secs
-* 100g de chou kale
+* 70g de chou kale
 * 1 gousse d’ail
 * 1 jus de citron
 * 1 pincée de cumin

@@ -18,7 +18,7 @@ layout: recettes
 ### Ingrédients  
 
 * 80g de graines de tournesol
-* 100g de chou kale
+* 60g de chou kale
 * 1/2 gousse d’ail
 * 50g de parmesan
 * 5 CS d'huile d'olive

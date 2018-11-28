@@ -17,7 +17,7 @@ layout: recettes
 
 ### Ingrédients  
 
-* 300g de chou kale
+* 350g de chou kale
 * 2CS de moutarde à l'ancienne
 * 1CS de miel
 * 1 CS d'huile de colza

@@ -36,5 +36,6 @@ Verser un peu d'eau tiède afin d'obtenir une pâte lisse et tartinable.
 
 **Astuces** 
 
-Pour avoir une pâte qui ressemble plus à celle du commerce,  mettre du chocolat fondu avec les noisettes, sans rien ajouter ou remplacer les noisettes par une purée de noisettes.   
+Pour avoir une pâte qui ressemble plus à celle du commerce,  mettre du chocolat fondu avec les noisettes, sans rien ajouter ou remplacer les noisettes par une purée de noisettes.  
+100g de chocolat + 50g de purée de noisettes + une pincée de sel + miel ou sucre complet selon le besoin sucré   
 Mélanger aussi des noisettes et amandes ou autres fruits à coque pour varier les goûts.  

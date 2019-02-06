@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/gateau-cru-cacao.jpg
+image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/gateau-cru-chocolat.jpg
 title: Gâteau cru au cacao
 licence: CC-by-sa
 categorie: dessert
@@ -18,7 +18,7 @@ layout: page
 **Ingrédients**  
  
 
-Pour le biscuit  
+Pour le biscuit    
 •	50g de noix de cajou
 •	60g de tournesol
 •	50g de noix de coco
@@ -27,8 +27,8 @@ Pour le biscuit
 •	60g d’huile de coco fondue
 •	100g de purée de noisettes
 •	25g de cacao environ
-•	sel
-Pour le praliné 
+•	sel  
+Pour le praliné   
 * 100g d'amandes
 * 100g de noisettes
 * un peu d'huile (facultatif)

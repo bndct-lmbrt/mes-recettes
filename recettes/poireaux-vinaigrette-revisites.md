@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/poireaux-vinaigrette-revisites.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/poireaux-vinaigrette-revisites.jpg
 title: Poireaux vinaigrette revisités
 licence: CC-by-sa
 categorie: entrée

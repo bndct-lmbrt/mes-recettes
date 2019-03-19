@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/veloute-poireaux-cardamome.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/veloute-poireaux-cardamome.jpg
 title: Velouté de poireaux à la cardamome
 licence: CC-by-sa
 categorie: entrée

@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/gateau-poireaux.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/gateau-poireaux.jpg
 title: Gâteau de poireaux
 licence: CC-by-sa
 categorie: dessert

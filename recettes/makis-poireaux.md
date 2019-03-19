@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/recettes-yoga-cuisine/raw/master/medias/makis-poireaux.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/makis-poireaux.jpg
 title: Makis de poireaux
 licence: CC-by-sa
 categorie: plat

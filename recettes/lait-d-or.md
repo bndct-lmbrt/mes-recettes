@@ -4,7 +4,7 @@ description:
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/lait-dor.jpg
 title: Lait d'or
 licence: CC-by-sa
-categorie: plat
+categorie: boisson
 niveau: débutant
 date: 20/03/19
 nombre: 4 personnes

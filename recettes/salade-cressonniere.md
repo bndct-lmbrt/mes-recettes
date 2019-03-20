@@ -8,7 +8,7 @@ categorie: plat
 niveau: débutant
 date: 04/01/19
 nombre: 4 personnes
-temps-cuisson: 0 min
+temps-cuisson: 10 min
 temps-preparation: 5 min
 layout: page
 ---

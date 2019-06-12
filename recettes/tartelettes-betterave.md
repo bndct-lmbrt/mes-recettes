@@ -4,13 +4,13 @@ description:
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/Tartelette-betterave-coco.jpg
 title: Tartelettes betterave et coco
 licence: CC-by-sa
-categorie: 
+categorie: dessert
 niveau: débutant
 date: 09/11/2018
 nombre: 4 personnes
 temps-cuisson: 5 min
 temps-preparation: 15 min
-layout: 
+layout: page
 ---
 
 
@@ -19,8 +19,8 @@ layout:
 * 1 betterave crue
 * 200ml de lait de coco
 * agar agar
-* 2CS de sucre
-Tarte  
+* 2CS de sucre  
+Tarte    
 * 30g de graines de sarrasin 
 * 30g de graines de courge
 * 30g de dattes moelleuses

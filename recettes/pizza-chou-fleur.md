@@ -4,13 +4,13 @@ description:
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/pizza-chou-fleur.jpg
 title: Pizza à la pâte de chou-fleur
 licence: CC-by-sa
-categories: plat
+categorie: plat
 niveau: débutant
 date: 26/10/2018
 nombre: 4 personnes
 temps-cuisson: 35 min
 temps-preparation: 20 min
-layout: recette
+layout: page
 ---
 
 

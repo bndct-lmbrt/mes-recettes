@@ -1,6 +1,6 @@
 ---
 author: Bénédicte Lambert
-description: zéro déchet
+description: 
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/buddha-bowl.jpg
 title: Buddha bowl
 licence: CC-by-sa

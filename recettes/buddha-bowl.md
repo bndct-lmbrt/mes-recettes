@@ -41,6 +41,12 @@ layout: page
 * raisins secs
 * coriandre ou persil
 * fleurs séchées, épices
+sauce  
+* 6CS de sauce soja
+* 2CS de vinaigre de riz
+* le jus d’1/2 citron vert
+* 1cc de miel (ou sucre de coco)
+* 1/2cc de gingembre frais râpé
 
 
 **Déroulé**
@@ -49,6 +55,7 @@ Faire cuire le riz, ajouter les feuilles de citron pour le parfumer.
 Couper les légumes finement à la mandoline ou avec un couteau.   
 Choisir les légumes qui vous plaisent ou que vous avez déjà.  
 Faire une jolie assiette en harmonisant les couleurs et les formes, quelque chose de beau et coloré qui vous donnera envie de le manger. Mélanger des choses croquantes et des textures plus moelleuses.   
+Mélanger les ingrédients de la sauce et verser au dernier moment.  
 
 
 **Astuces** 

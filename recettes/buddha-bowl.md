@@ -43,7 +43,7 @@ layout: page
 * fleurs séchées, épices
 sauce  
 * 6CS de sauce soja
-* 2CS de vinaigre de riz
+* 2CS de vinaigre de riz (ou de cidre)
 * le jus d’1/2 citron vert
 * 1cc de miel (ou sucre de coco)
 * 1/2cc de gingembre frais râpé

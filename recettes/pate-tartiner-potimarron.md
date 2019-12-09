@@ -21,6 +21,7 @@ layout: page
 * 1/2 cc de cannelle
 * 1/2 cc de curcuma
 * 1 cc d'arôme d'amandes amères
+* 50/100g de chocolat noir
 
 
 
@@ -31,7 +32,9 @@ Ouvrir en 2 et retirer la pulpe et les pépins.
 Mixer la chair jusqu'à l'obtention d'une pâte lisse. Ajouter un peu d'eau si besoin.    
 Dans une casserole, mélanger la pâte avec le sucre et les épices.  
 Faire revenir à feu doux en remuant régulièrement.
-Lorsque le mélange a une consistance de pâte à tartiner, ajouter hors du feu l'arôme et mettre en pot. 
+Lorsque le mélange a une consistance de pâte à tartiner, ajouter hors du feu l'arôme et mettre en pot.   
+Pour les plus gourmands, ajouter le chocolat noir suivant votre cacaovorisme et mélanger bien avant de mettre en pot.  
+À conserver au réfrigérateur.  
 
 **Astuces**
 

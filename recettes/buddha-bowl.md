@@ -61,4 +61,6 @@ Mélanger les ingrédients de la sauce et verser au dernier moment.
 **Astuces** 
 
 Faites le buddha bowl avec des légumes de saison.  
-Mélangez le cru et le cuit si vous voulez un peu de chaud dans l'assiette, mettre que du cru permet d'avoir un résultat plus rapide et plus de vitamines mais faites comme vous l'aimez.   
+Mélangez le cru et le cuit si vous voulez un peu de chaud dans l'assiette, mettre que du cru permet d'avoir un résultat plus rapide et plus de vitamines mais faites comme vous l'aimez.  
+
+credit photo : Kate Bitzo 

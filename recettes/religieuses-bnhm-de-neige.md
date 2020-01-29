@@ -17,24 +17,25 @@ layout: page
 **Ingrédients**
 
 
-*pâte à choux*
+*pâte à choux*  
 * 125g d’eau
 * 40g de beurre 1/2 sel
 * 2g de sel
 * 3g de sucre
-* 2 oeufs entiers
-*crème pâtissière*
+* 75g de farine
+* 2 oeufs entiers  
+*crème pâtissière*  
 * 25cl de lait
 * 1 jaune d’oeuf
 * 25g de sucre
 * 18g de maizena
 * 1/2 gousse de vanille
 * 50g de chocolat blanc
-* 30g de noix de coco
-*glaçage*
+* 30g de noix de coco  
+*glaçage*  
 * blanc d’oeuf
-* sucre glace
-*décors*
+* sucre glace  
+*décors*  
 * pâte d’amande
 * colorants alimentaires
 

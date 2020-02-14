@@ -20,7 +20,7 @@ layout: page
 * 250g de beurre 1/2 sel
 * 5 oeufs
 * 100g de sucre complet ou 4CS de miel
-* 1CS de farine (possible farine de sarrasin ou de riz complet)
+* 1CS de farine (possible farine de sarrasin ou de riz complet)    
 pour le glaçage :  
 * 1 avocat
 * 9 dattes
@@ -30,7 +30,7 @@ pour le glaçage :
 
 **Déroulé**
 
-Préchauffer le four à 180°C
+Préchauffer le four à 180°C.  
 Mettre à chauffer, au bain-marie, le chocolat cassé en morceaux et le beurre coupé en cubes.  
 Dans un saladier, battre les oeufs avec le sucre et ajouter la farine. 
 Ajouter le mélange beurre et chocolat en remuant doucement au centre puis en agrandissant les mouvements au fur et à mesure.  
@@ -42,5 +42,6 @@ Dans une poêle, faire torréfier les amandes et les hacher grossièrement.
 Décorer sur le dessus avec les amandes.  
  
 
-**Astuces** 
-Remplacer les amandes par des noisettes, des noix de pécan ou pistaches.  
+**Astuces**   
+
+Remplacer les amandes par des noisettes, des noix de pécan ou des pistaches.  

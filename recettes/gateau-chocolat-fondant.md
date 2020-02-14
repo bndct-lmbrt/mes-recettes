@@ -20,8 +20,9 @@ layout: page
 * 250g de beurre 1/2 sel
 * 5 oeufs
 * 100g de sucre complet ou 4CS de miel
-* 1CS de farine (possible farine de sarrasin ou de riz complet)    
-pour le glaçage :  
+* 1CS de farine (possible farine de sarrasin ou de riz complet)  
+
+   pour le glaçage :    
 * 1 avocat
 * 9 dattes
 * 2Cs de cacao en poudre

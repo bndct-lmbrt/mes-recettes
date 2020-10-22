@@ -26,7 +26,7 @@ layout: page
 * 10g de noisettes hachées
 * 20g de noix hachées et quelques cerneaux pour la déco
 * 25g de noix de coco râpée
-* sel
+* sel  
 Glaçage :
 * 100g de mascarpone
 * 3CS de sucre glace

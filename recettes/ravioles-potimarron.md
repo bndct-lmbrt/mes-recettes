@@ -1,8 +1,8 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/ravioles-potimarron.jpg
-title: Ravioles de potimarron au parmesan et amandes
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/lasagnes-potimarron.jpg
+title: Lasagnes de potimarron au parmesan et amandes
 licence: CC-by-sa
 categorie: plat
 niveau: débutant
@@ -21,16 +21,24 @@ layout: page
 * 1cc d'arôme d'amandes amères
 * 80g de parmesan
 * 2 branches de sauge
-* 4 plaques de pâtes fraîches
+* 4 plaques de lasagnes complètes
+* 1CS d'huile d'olive
 * sel, poivre
 
 
 **Déroulé**  
 
-Faire cuire le potimarron en cubes dans une casserole d'eau bouillante.  
+Faire cuire le potimarron en cubes dans une casserole d'eau bouillante ou au four.  
 Mixer la chair avec la poudre d'amandes, l'arôme d'amandes amères, la moitié du parmesan et la sauge hachée.  
-Tailler les pâtes fraîches en carrés.  
-Déposer un peu de farce au milieu puis replier en triangle en pinçant pour sceller les bords.  
-Dans une casserole d'eau bouillante, jeter les raviolis et attendre qu'ils remontent à la surface pour les retirer.   
-Égoutter puis servir avec le reste du parmesan et quelques feuilles de sauge fraîches.  
+Faire pré-cuire les plaques de pâtes fraiches et réserver.   
+Préchauffer le four à 200°C. 
+Huiler le moule et déposer une feuille de pâte puis un tiers du mélange aux amandes.  
+Renouveler l'opération trois fois et finir avec un peu du mélange puis recouvrir du reste de parmesan.     
+Enfourner pour 20/25 min.  
+Servir avec une salade verte.    
+
+**Astuces**
+
+Ajoutez une fondue d'oignons sous la purée et quelques légumes croquants.   
+Remplacez la sauge par du thym et romarin.  
  

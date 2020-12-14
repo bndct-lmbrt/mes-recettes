@@ -21,7 +21,7 @@ layout: page
 * 1cc d'arôme d'amandes amères
 * 80g de parmesan
 * 2 branches de sauge
-* 4 plaques de lasagnes complètes
+* 6 plaques de lasagnes complètes
 * 1CS d'huile d'olive
 * sel, poivre
 
@@ -29,10 +29,10 @@ layout: page
 **Déroulé**  
 
 Faire cuire le potimarron en cubes dans une casserole d'eau bouillante ou au four.  
-Mixer la chair avec la poudre d'amandes, l'arôme d'amandes amères, la moitié du parmesan et la sauge hachée.  
-Faire pré-cuire les plaques de pâtes fraiches et réserver.   
+Mixer la chair avec la poudre d'amandes, l'arôme d'amandes amères, la moitié du parmesan et la sauge hachée, assaisonner.  
+Faire pré-cuire les plaques de pâtes fraiches dans une eau salée et réserver.   
 Préchauffer le four à 200°C. 
-Huiler le moule et déposer une feuille de pâte puis un tiers du mélange aux amandes.  
+Huiler le moule et déposer deux feuilles de pâte puis un tiers du mélange aux amandes.  
 Renouveler l'opération trois fois et finir avec un peu du mélange puis recouvrir du reste de parmesan.     
 Enfourner pour 20/25 min.  
 Servir avec une salade verte.    

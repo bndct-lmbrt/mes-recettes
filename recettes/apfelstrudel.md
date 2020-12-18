@@ -2,7 +2,7 @@
 ---
 author: Bénédicte Lambert
 description: 
-image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/apfelstrudel.jpg
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/traiteur-appelstrudel.jpg
 title: Apfelstrudel
 licence: CC-by-sa
 categorie: 

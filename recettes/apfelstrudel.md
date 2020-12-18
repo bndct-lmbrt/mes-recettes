@@ -11,7 +11,8 @@ date: 17/12/20
 nombre: 4 personnes
 temps-cuisson: 40 min
 temps-preparation: 20 min
-layout: 
+temps-repos : 30 min
+layout: page
 ---
 ### Ingrédients  
 

@@ -5,15 +5,17 @@ description:
 image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/traiteur-appelstrudel.jpg
 title: Apfelstrudel
 licence: CC-by-sa
-categorie: 
+categorie: dessert
 niveau: débutant
 date: 17/12/20
 nombre: 4 personnes
 temps-cuisson: 40 min
 temps-preparation: 20 min
-temps-repos : 30 min
+temps-repos: 30 min
 layout: page
 ---
+
+
 
 ### Ingrédients  
 

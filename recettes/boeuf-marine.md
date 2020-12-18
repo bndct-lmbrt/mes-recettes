@@ -25,7 +25,7 @@ marinade
 * 1 cc de coriandre en graines 
 * 1 cc de chaque épice : curry, cumin, 4 épices
 Boeuf  
-* poids suivant le morceau choisi
+* poids suivant les morceaux choisis
 
 **Déroulé**
 
